@@ -1,6 +1,7 @@
-# zoom_clone
+# Zoom Clone
 
-A new Flutter project.
+Video meeting app through which video, audio call take place. 
+
 
 ## Getting Started
 
