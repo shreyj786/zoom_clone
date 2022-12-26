@@ -3,9 +3,9 @@
 Video meeting app through which video, audio call take place. 
 
 This has: 
-Firestore
-Google Signin
-Video and audio meeting feature. 
+- Firestore
+- Google Signin
+- Video and audio meeting feature. 
 
 
 
